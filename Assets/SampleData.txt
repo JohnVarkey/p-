@@ -1,0 +1,29 @@
+[
+{
+	"_id": "5f39e8aa99c9d9001b13004c",
+	"image": "https://storage.googleapis.com/shc-file-storage/claims/$Test17-8-2020  :  12-17-11.jpg#1597630634270103",
+	"date": "17-8-2020  :  12-17-11",
+	"comment": "Wr",
+	"__v": 0
+},
+{
+	"_id": "5f39e8c099c9d9001b13004d",
+	"image": "https://storage.googleapis.com/shc-file-storage/claims/$Test17-8-2020  :  12-17-33.jpg#1597630655884318",
+	"date": "17-8-2020  :  12-17-33",
+	"comment": "Ot",
+	"__v": 0
+},
+{
+	"_id": "5f39e8d399c9d9001b13004e",
+	"image": "https://storage.googleapis.com/shc-file-storage/claims/$Test17-8-2020  :  12-17-52.jpg#1597630675356448",
+	"date": "17-8-2020  :  12-17-52",
+	"comment": "Meeting",
+	"__v": 0
+},
+{
+	"_id": "5f4c656dcb2fc8002028a0eb",
+	"image": "https://storage.googleapis.com/shc-file-storage/claims/$Test31-8-2020  :  12-50-16.jpg#1598842220888775",
+	"date": "31-8-2020  :  12-50-16",
+	"comment": "IC",
+	"__v": 0
+}]

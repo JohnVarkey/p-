@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');/* Roboto*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); /*Montserrat*/
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+div{
+  overflow: hidden;
+}
+#Container{
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+#Logo{
+  height: 70px;
+  margin:  5px 10px;
+}
+#navbar{
+  min-height: 20vh;
+  background-color: #516EBC;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 15px;
+}
+
+#UserAvatar-Div{
+  padding-right: 90px;
+}
+
+
+#Title-Div, #Logo{
+  padding-left: 80px;
+}
+
+.Title{
+  display: block;
+  margin: 10px;
+  font-size: 5vmax;
+  font-family: 'Roboto', sans-serif;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+
+.SubTitle{
+  margin: 10px;
+  font-size: 1vmax;
+  font-family: 'Roboto', sans-serif;
+  text-transform: capitalize;
+}
+
+
+.Avatar-Div{
+  display: inline;
+  padding-left: 5px;
+}
+
+#Avatar{
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+.UserName{
+  font-size: 15;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: capitalize;
+}
+
+#Table-Container{
+  width: 100%;
+  background-color: #E2EAFE;
+  overflow: hidden;
+  border-radius: 17px;
+  height: 70vh;
+
+}
+
+#Table-Innercontainer{
+  width: 85vw;
+  margin: auto;
+  height: 60vh;
+  margin-top: 2vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+#Table{
+  background-color: white;
+  border-radius: 17px;
+  width: 80%;
+}
+
+
+table{
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+
+table tr th{
+  height: 5rem;
+  color: #6576A0;
+  font-size: 20;
+  font-weight: 600;
+  border-bottom: 1px solid #5882ec;
+}
+
+table tr td{
+  height: 3rem;
+}
+
+table tr:nth-child(2n){
+  background-color: #EAECF7;
+}
+
+#Modal{
+  width: 45%;
+  margin-left: 25px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 17px;
+}
+
+#Client-Document{
+  height: 90%;
+}
+
+
+
